@@ -1,0 +1,19 @@
+# Lecture 1
+
+**Describing the Relationship Between Two Continuous Variables**
+
+1.  Describe the relationship (strength and direction) between two continuous variables using the statistical technique of correlation analysis
+
+2.  Describe the relationship (estimation or prediction) between two continuous variables using the statistical technique of regression analysis
+
+3.  Introduce the assumptions for performing a simple linear regression analysis and interpret the regression coefficients
+
+4.  Discuss the concept of centering covariates in a linear regression analysis
+
+5.  Identify a linear regression model as a type of generalized linear model
+
+6.  Apply the statistical techniques of correlation analysis and regression analysis to assess relationships in data sets
+
+## Correlation Analysis
+
+## Introduction to Linear Regression Analysis
